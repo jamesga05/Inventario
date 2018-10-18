@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\bin\Debug\Inventarioo.exe.config
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\bin\Debug\Inventarioo.exe
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\bin\Debug\Inventarioo.pdb
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.Form1.resources
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.Form2.resources
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.Properties.Resources.resources
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.exe
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.pdb
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\bin\Debug\Database11.accdb
+C:\Users\Dell\source\repos\Inventarioo\Inventarioo\obj\Debug\Inventarioo.Form3.resources
